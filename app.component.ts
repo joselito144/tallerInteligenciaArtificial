@@ -6,6 +6,8 @@
 
 // Politécnico Jaime Isaza Cadavid
 
+// Algoritmo genético que genera una cadena de caracteres dada
+
 import { Component } from '@angular/core';
 
 @Component({
